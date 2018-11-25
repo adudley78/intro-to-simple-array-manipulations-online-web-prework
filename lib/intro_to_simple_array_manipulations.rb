@@ -29,3 +29,7 @@ end
 def using_insert(arr, elm)
   arr.insert(elm)
 end
+
+def using_uniq(arr)
+  arr.uniq
+end
