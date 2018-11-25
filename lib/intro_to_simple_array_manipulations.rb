@@ -1,3 +1,3 @@
 def using_push(arr, str)
-  str.push(arr)
+  arr.push(str)
 end
